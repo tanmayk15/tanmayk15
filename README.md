@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayk15&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayk15" /> </p>
 
-<p align="left"> <a href="https://twitter.com/khodankartanmay" target="blank"><img src="https://img.shields.io/twitter/follow/khodankartanmay?logo=twitter&style=for-the-badge" alt="khodankartanmay" /></a> </p>
-
 - 🔭 I’m currently working on **Automatic subtitle generator and face recognition.**
 
 - 🌱 I’m currently learning **Python for AI/ML, TensorFlow, OpenCV, Database Systems**
