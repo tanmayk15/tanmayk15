@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayk15&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayk15" /> </p>
 
-# Hi, I'm TANMAY KHODANKAR
-
 Software Developer with hands-on experience building and maintaining production web applications, REST APIs, and microservices using Python, FastAPI, React, and Docker.
 
 Experienced in designing scalable backend systems, implementing authentication & authorization, integrating third-party services, and deploying applications to production.
