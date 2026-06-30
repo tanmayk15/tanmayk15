@@ -1,18 +1,43 @@
 ![MasterHead](https://camo.githubusercontent.com/e0fc2db6cc82cd820223dda783fc4bbe567440ed5b3eba27085cdcd53241164c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34342f63372f63312f34346337633166336662643638623231353163333761663566303831393866312e676966)
 <h1 align="center">Hi 👋, I'm TANMAY KHODANKAR</h1>
-<h3 align="center">I’m an MCA student passionate about AI, Machine Learning, and Software Development.</h3>
+<h3 align="center">Software Developer | Backend & Full-Stack Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayk15&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayk15" /> </p>
 
-- 🔭 I’m currently working on **Automatic subtitle generator and face recognition.**
+# Hi, I'm TANMAY KHODANKAR
 
-- 🌱 I’m currently learning **Python for AI/ML, TensorFlow, OpenCV, Database Systems**
+Software Developer with hands-on experience building and maintaining production web applications, REST APIs, and microservices using Python, FastAPI, React, and Docker.
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+Experienced in designing scalable backend systems, implementing authentication & authorization, integrating third-party services, and deploying applications to production.
 
-- 💬 Ask me about **Python, Machine Learning basics, Deep Learning simulations**
+* 🌱 Currently exploring:
+  * AI-integrated web applications and backend services
+  * Scalable System Design
+  * Cloud & DevOps
+  * Advanced Backend Architecture
+
+* 👨‍💻 Featured Projects:
+
+  * **FaceAttend** – Facial Recognition Attendance System
+  * **GeoSynth** – Store Placement Analysis Platform
+  * **AutoTranscriber** – Automatic Subtitle Generation System
+
+* 💬 Ask me about:
+  **Python, FastAPI, React, REST APIs, Docker, Microservices, Authentication, Machine Learning, and Computer Vision**
+
+### 🛠️ Tech Stack
+
+**Backend:** Python, FastAPI, Node.js, REST APIs
+
+**Frontend:** React.js, JavaScript
+
+**Databases:** MongoDB, MySQL
+
+**Tools:** Docker, Git, GitHub, Vercel, Render, Hostinger
+
+Building software that solves real-world problems.
 
 - 📫 How to reach me **tanmay.k152002@gmail.com**
 
